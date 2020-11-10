@@ -1,0 +1,35 @@
+{
+    "name": "pyd-pack-addons",
+    "displayName": "PYD PACK ADDONS",
+    "description": "My Personal Pack",
+    "version": "1.0.0",
+    "publisher": "Djbrown184",
+    "license": "MIT",
+    "author": {
+        "name": "Pierre-Yves Delion",
+        "url": "https://github.com/Djbrown184"
+    },
+    "keywords": [
+        "PYD",
+        "pyd"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Djbrown184/vscode-pyd-pack-addons"
+    },
+    "homepage": "https://github.com/Djbrown184/vscode-pyd-pack-addons#readme",
+    "bugs": {
+        "url": "https://github.com/Djbrown184/vscode-pyd-pack-addons/issues"
+    },
+    "icon": "images/stargame.png",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "naumovs.color-highlight",
+        "ikappas.composer"
+    ]
+}
